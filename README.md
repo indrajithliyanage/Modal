@@ -1,0 +1,1 @@
+A Simple Modal using HTML, CSS and JS
